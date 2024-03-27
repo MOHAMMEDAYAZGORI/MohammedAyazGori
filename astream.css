@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+img {
+    text-align: left;
+    width: 40%;
+}
+
+.button {
+    
+    color: white;
+    width: 60%;
+    height: 20vh;
+    text-align: right;
+}
+
+.button :hover {
+    color: greenyellow;
+}
+.section{
+    text-align: right;
+    }
+
+b1{
+    background-color: green;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
