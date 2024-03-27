@@ -1,0 +1,28 @@
+#bttn{
+   
+    height: 50vh;
+    padding: 50px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+button{
+    width: 20%;
+    height: 50px;
+}
+#log{
+    height: 50%;
+    width: 80%;
+    text-align: left;
+    justify-content: center;
+}
+header{
+    background: black;
+}
+section{
+    width: 100%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
